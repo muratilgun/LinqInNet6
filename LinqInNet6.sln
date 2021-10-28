@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementAtAcceptsIndex", "El
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeRange", "TakeRange\TakeRange.csproj", "{DE09AA62-07DC-4AFE-87F2-58C427916F48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultParameter", "DefaultParameter\DefaultParameter.csproj", "{53C1F84E-B281-494D-861F-BD4A9F7D30EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{DE09AA62-07DC-4AFE-87F2-58C427916F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE09AA62-07DC-4AFE-87F2-58C427916F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE09AA62-07DC-4AFE-87F2-58C427916F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C1F84E-B281-494D-861F-BD4A9F7D30EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C1F84E-B281-494D-861F-BD4A9F7D30EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C1F84E-B281-494D-861F-BD4A9F7D30EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C1F84E-B281-494D-861F-BD4A9F7D30EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
